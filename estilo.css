@@ -1,0 +1,24 @@
+h1{
+    color: darkred;
+}
+body{
+    background-color: dimgrey;
+}
+p{
+    font-size: 20px;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+}
+img{
+    border:solid black 2px;
+}
+.resaltar{
+    color: rgb(125, 170, 79);
+}
+p{
+    background-color: lightblue;
+}
