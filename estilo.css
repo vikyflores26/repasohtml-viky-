@@ -22,3 +22,14 @@ img{
 p{
     background-color: lightblue;
 }
+div{
+    margin: 15px;
+}
+table {
+    border-collapse: separate;
+    padding: 10px;
+  }
+  img {
+    width: 200px;
+  }
+  
