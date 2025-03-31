@@ -32,4 +32,22 @@ table {
   img {
     width: 200px;
   }
+  ul li{
+    color:purple; 
+    
+    }
+    p {
+        font-family: 'Times New Roman', serif;
+        font-size: 16px;
+        background-color: yellow;
+      }
+      table {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+      
+      table td, table th {
+        padding: 5px;
+      }
+
   
